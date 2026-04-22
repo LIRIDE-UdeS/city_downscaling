@@ -4,6 +4,10 @@ City-level downscaling of household environmental impacts relies predominantly o
 
 ![Framework](Methodological_Framework.png)
 
-## Framework overview
+## Repository structure
 
-###
+The repository is organized in four folders, one per step of the framework. Each folder contains the corresponding Jupyter notebooks and the description of the required inputs and outputs. 
+
+## Citation
+
+Moreno, P., Pedinotti-Castelle, M., & Amor, B. (manuscript in preparation) Beyond uniform income scaling factor:  A category-specific EEIO downscaling framework for city-level household impacts under aggregated data constraints
