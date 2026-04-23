@@ -16,7 +16,7 @@ These matrices must be generated using an MRIO model and placed in a folder name
 Additionally, a concordance file mapping each IO sector to its corresponding consumption category must be prepared by the user and placed in the working directory. The file Aggregation.xlsx was built for the Province of Quebec based on the North American Product Classification System (NAPCS) and the Classification of Products by Activity (CPA). 
 
 ## Outputs
-This step generates two outputs files:
+This step generates two output files:
 
 1. A CSV file containing the environmental impacts at the IO sector level for the studied region and year. 
 2. An Excel file containing the environmental impacts and percentage contribution aggregated by consumption category for the studied region and year. 
