@@ -18,5 +18,5 @@ Additionally, a concordance file mapping each IO sector to its corresponding con
 ## Outputs
 This step generates two output files:
 
-1. A CSV file containing the environmental impacts at the IO sector level for the studied region and year. 
+1. A CSV file containing the environmental impacts at the IO sector level for the studied region and year. Used as input for Step 2.
 2. An Excel file containing the environmental impacts and percentage contribution aggregated by consumption category for the studied region and year. 
