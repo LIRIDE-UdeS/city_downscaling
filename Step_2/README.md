@@ -10,5 +10,7 @@ Household environmental impacts estimated in Step 1 are allocated across socioec
 
 ## Outputs
 
-1. 
+This step generates two output folders:
 
+{IMPACT}_by_category/ — one Excel file per consumption category containing the environmental impacts by SED subfactor. Used as input for Step 3.
+{IMPACT}_by_{FACTOR}/ — one Excel file per SED subfactor containing the environmental impacts by consumption category. Used as input for Step 4.
