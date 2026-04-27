@@ -6,7 +6,7 @@ City-level downscaling of household environmental impacts relies predominantly o
 
 ## Repository structure
 
-The repository is organized in four folders, one per step of the framework. Each folder contains the corresponding Jupyter notebooks and the description of the required inputs and outputs. 
+The repository is organized in five folders: four corresponding to each step of the framework, and one containing the supplementary material referenced in the manuscript. Each folder contains the corresponding Jupyter notebooks and the description of the required inputs and outputs.
 
 ## Citation
 
