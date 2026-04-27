@@ -9,8 +9,8 @@ Household environmental impacts estimated in Step 1 are allocated across socioec
 3. A file containing the household-weighted expenditure shares by SED subfactor for each expenditure category. This file must be prepared by the user. The file spending_by_income.xlsx was built using data from Institut de la Statistique du Québec (ISQ).
 
 ## Outputs
-
-This step generates two output folders:
+This step generates two outputs:
 
 1. {IMPACT}_by_category/ — one Excel file per consumption category containing the environmental impacts by SED subfactor. Used as input for Step 3.
-2. {IMPACT}_by_subfactor/ — one Excel file per SED subfactor containing the environmental impacts by consumption category. Used as input for Step 4.
+2. {YEAR}_{IMPACT}_{FACTOR}.xlsx — a single Excel file in long format containing the total environmental impacts and impacts per household by consumption category and SED subfactor. Used as input for Step 4.
+
