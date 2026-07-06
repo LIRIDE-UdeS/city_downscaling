@@ -12,8 +12,17 @@ The repository is organized in five folders: four corresponding to each step of 
 
 https://doi.org/10.5281/zenodo.20331560
 
-Moreno, P., Pedinotti-Castelle, M., & Amor, B. (manuscript in preparation) Beyond uniform income scaling factor:  A category-specific EEIO downscaling framework for city-level household impacts under aggregated data constraints
+Moreno, P., Pedinotti-Castelle, M., & Amor, B. (under review) Beyond uniform income scaling factor: A category-specific EEIO downscaling framework for city-level household impacts under aggregated data constraints. Submitted to the *Journal of Industrial Ecology*.
 
 ## Contact
 
 paalo.andrea.moreno.yanez@usherbrooke.ca
+
+## License
+
+This repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), consistent with [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada), on which the impact estimates are based.
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
