@@ -10,7 +10,7 @@ The repository is organized in five folders: four corresponding to each step of 
 
 ## Citation
 
-https://doi.org/10.5281/zenodo.20331560
+https://doi.org/10.5281/zenodo.20331559
 
 Moreno, P., Pedinotti-Castelle, M., & Amor, B. (under review) Beyond uniform income scaling factor: A category-specific EEIO downscaling framework for city-level household impacts under aggregated data constraints. Submitted to the *Journal of Industrial Ecology*.
 
