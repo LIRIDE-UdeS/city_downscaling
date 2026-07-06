@@ -20,7 +20,7 @@ paalo.andrea.moreno.yanez@usherbrooke.ca
 
 ## License
 
-This repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), consistent with [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada), on which the impact estimates are based.
+This repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 - **Share** — copy and redistribute the material in any medium or format.
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
