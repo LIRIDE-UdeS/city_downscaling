@@ -12,8 +12,8 @@ This folder contains the supplementary tables referenced in the manuscript.
 - Table S6. Socioeconomic and demographic characteristics of selected Quebec cities used for city-level downscaling (2021)
 - Table S7. Gini coefficients of Climate Change impact distribution by consumption category, SED factor, and assessment level, Province of Quebec (2019 and 2021)
 - Table S8. Gini coefficients of Human Health impact distribution by consumption category, SED factor, and assessment level, Province of Quebec (2019 and 2021)
-- Table S9. Gini coefficients of Ecosystem Quality impact distribution by consumption category, SED factor, and assessment level, Province of Quebec (2019 and 2021
-- Table S10. Capital investment and government consumption emissions per household and per capita in the Province of Quebec (2021).
+- Table S9. Gini coefficients of Ecosystem Quality impact distribution by consumption category, SED factor, and assessment level, Province of Quebec (2019 and 2021)
+- Table S10. Capital investment and government consumption emissions per household and per capita in the Province of Quebec (2021)
 
 
 
